@@ -22,14 +22,14 @@
 
 <h3 align="center">📈 My GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="yourusername">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" alt="yourusername">
+  <img src="https://github-readme-stats.vercel.app/api?username=spmfte&show_icons=true&locale=en" alt="spmfte">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spmfte" alt="spmfte">
 </p>
 
 <!-- This section is optional, for displaying most used languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="yourusername">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spmfte&show_icons=true&locale=en&layout=compact" alt="spmfte">
 </p>
 
-<!-- Replace "yourusername" with your actual GitHub username -->
+<!-- Replace "spmfte" with your actual GitHub username -->
 
