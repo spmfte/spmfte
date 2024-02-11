@@ -2,7 +2,8 @@
 <h3 align="center">A passionate developer from San Diego, CA</h3>
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile banner image">
+    <img src="https://raw.githubusercontent.com/spmfte/spmfte/main/me.jpeg" alt="Profile banner image">
+
 </p>
 
 <p align="center">🌱 I’m currently learning <strong>advanced data science and machine learning techniques</strong></p>
