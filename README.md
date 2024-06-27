@@ -15,6 +15,8 @@
 <p align="center">
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <!-- TypeScript -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <!-- Rust -->
@@ -69,6 +71,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <!-- Supabase -->
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="30" alt="Supabase logo" />
+  <!-- Firebase -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase logo" />
+  <!-- Svelte -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="Svelte logo" />
+  <!-- npm -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" />
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
+  <!-- Vite -->
+  <img src="https://vitejs.dev/logo.svg" height="30" alt="Vite logo" />
+  <!-- Next.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" />
+
 </p>
 
 
@@ -85,3 +102,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spmfte&theme=vision-friendly-dark&layout=compact" alt="Top Languages">
 </p>
+
+<h3 align="center">📫 Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aidanlittman/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:aidanlittman@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Gmail logo" />
+  </a>
+</p>
+
