@@ -9,7 +9,6 @@
 <p align="center">🌱 I’m currently learning <strong>advanced data science and machine learning techniques</strong></p>
 <p align="center">💼 I have experience as a <strong>Process Engineering Intern at CBDirect</strong> and a <strong>Research Intern at Nature Collective</strong></p>
 <p align="center">🔭 I worked on projects like <strong>ovarian cancer subtype classification</strong> and <strong>AI-generated text detection</strong></p>
-<p align="center">📫 How to reach me: <strong>aidanlittman@gmail.com</strong></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
