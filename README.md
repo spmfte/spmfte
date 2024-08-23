@@ -91,8 +91,9 @@
 </p>
 <h3 align="center">📈 My GitHub Stats</h3>
 <p align="center">
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spmfte&show_icons=true&theme=vision-friendly-dark&hide=issues&count_private=true&include_all_commits=true&custom_title=Aidan's%20GitHub%20Stats" alt="Aidan's GitHub Stats">
+     -->
   <!-- GitHub Streak Stats -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=spmfte&theme=vision-friendly-dark" alt="spmfte">
 </p>
