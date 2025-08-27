@@ -1,68 +1,121 @@
-<h1 align="center">Hi, I'm Aidan</h1>
-<h3 align="center">A passionate developer from San Diego, CA</h3>
-
+<!-- ---------- HEADER ---------- -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spmfte/spmfte/main/me.jpeg" alt="Profile banner image" width="156" height="156">
+  <img src="./me.jpeg" width="132" height="132" style="border-radius:50%;object-fit:cover" alt="Aidan Littman"/>
 </p>
 
-<p align="center">🌱 I’m currently learning <strong>advanced data science and machine learning techniques</strong></p>
-<p align="center">💼 I have experience as a <strong>Process Engineering Intern at CBDirect</strong> and a <strong>Research Intern at Nature Collective</strong></p>
-<p align="center">🔭 I worked on projects like <strong>ovarian cancer subtype classification</strong> and <strong>AI-generated text detection</strong></p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="30" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="30" alt="Node.js logo" />
-  <img src="https://vitejs.dev/logo.svg" height="30" width="30" alt="Vite logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="30" alt="Next.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="30" alt="vuejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" width="30" alt="Svelte logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="30" alt="npm logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="30" width="30" alt="supabase logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="30" alt="Firebase logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" width="30" alt="tensorflow logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" width="30" alt="pytorch logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" width="30" alt="keras logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" width="30" alt="pandas logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="30" alt="numpy logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" width="30" alt="rust logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="30" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="30" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="30" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="30" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="30" alt="bash logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="30" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="30" width="30" alt="arch linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" width="30" alt="vim logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="30" alt="jupyter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" width="30" alt="matplotlib logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="30" alt="php logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" width="30" alt="ruby logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="30" alt="angular logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" width="30" alt="flask logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="30" alt="postgresql logo" />
-</p>
-
-<h3 align="center">📈 My GitHub Stats</h3>
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=spmfte&theme=vision-friendly-dark" alt="spmfte">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spmfte&theme=vision-friendly-dark&layout=compact" alt="Top Languages">
-</p>
-
-<h3 align="center">📫 Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/aidanlittman/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" alt="LinkedIn logo" />
+<p align="center" style="line-height:1.6">
+  <span style="font-weight:700">Engineer</span> at
+  <a href="https://www.monster.bet" target="_blank" rel="noopener noreferrer" aria-label="Monster.bet">
+    <img
+      src="https://www.monster.bet/_next/image?url=%2Fimages%2FcompanyLogos%2Fmonsterbethoriz.avif&w=1920&q=75"
+      alt="Monster.bet logo"
+      height="20"
+      style="vertical-align:text-bottom;margin:0 6px"
+      loading="lazy"
+      decoding="async"
+    />
+    <span style="font-weight:600">Monster.bet</span>
   </a>
-  <a href="mailto:aidanlittman@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="30" alt="Gmail logo" />
-  </a>
+  <br/>
+  San Diego, CA · Full-stack Web Development · Applied ML
+</p>
+
+<!-- ---------- LANGUAGES & TOOLS ---------- -->
+<h3 align="center">⚙️ Languages &amp; Tools</h3>
+<p align="center">
+  <img
+    alt="Core stack icons"
+    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,pytorch,tensorflow,postgres,supabase,docker,linux,vim,git"
+    loading="lazy"
+    decoding="async"
+  />
+</p>
+
+<details>
+  <summary><b>More I’ve used</b></summary>
+  <p align="center">
+    <img
+      alt="More tools"
+      src="https://skillicons.dev/icons?i=rust,java,go,php,ruby,vue,svelte,flask,mysql,mongodb,bash,arch,neovim"
+      loading="lazy"
+      decoding="async"
+    />
+  </p>
+</details>
+
+<!-- ---------- METRICS ---------- -->
+<h3 align="center">📈 Metrics</h3>
+
+<!-- Summary card: wide -->
+<p align="center">
+  <img
+    alt="Profile details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spmfte&theme=tokyonight"
+    loading="lazy"
+    decoding="async"
+  />
+</p>
+
+<!-- Summary cards grid (2×2) -->
+<div align="center">
+  <table style="border-collapse:collapse;table-layout:fixed;width:100%;max-width:900px;">
+    <tr>
+      <td align="center" style="width:50%;padding:4px;">
+        <img
+          alt="Repos per language"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spmfte&theme=tokyonight"
+          loading="lazy"
+          decoding="async"
+          style="max-width:100%;"
+        />
+      </td>
+      <td align="center" style="width:50%;padding:4px;">
+        <img
+          alt="Most commit language"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spmfte&theme=tokyonight"
+          loading="lazy"
+          decoding="async"
+          style="max-width:100%;"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="width:50%;padding:4px;">
+        <img
+          alt="Productive time"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spmfte&theme=tokyonight&utcOffset=-7"
+          loading="lazy"
+          decoding="async"
+          style="max-width:100%;"
+        />
+      </td>
+      <td align="center" style="width:50%;padding:4px;">
+        <img
+          alt="Summary stats"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spmfte&theme=tokyonight"
+          loading="lazy"
+          decoding="async"
+          style="max-width:100%;"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Activity graph: wide -->
+<p align="center">
+  <img
+    alt="Contribution activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=spmfte&theme=tokyo-night&hide_border=true&radius=8"
+    loading="lazy"
+    decoding="async"
+  />
+</p>
+
+<!-- ---------- CONTACT ---------- -->
+<h3 align="center">🤝 Let’s connect</h3>
+<p align="center">
+  <a href="mailto:aidanlittman@gmail.com" aria-label="Email"><img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aidanlittman/" aria-label="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/></a>
 </p>
