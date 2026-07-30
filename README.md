@@ -1,121 +1,119 @@
-<!-- ---------- HEADER ---------- -->
-<p align="center">
-  <img src="./me.jpeg" width="132" height="132" style="border-radius:50%;object-fit:cover" alt="Aidan Littman"/>
-</p>
+<!-- ==================== HEADER ==================== -->
 
-<p align="center" style="line-height:1.6">
-  <span style="font-weight:700">Engineer</span> at
-  <a href="https://www.monster.bet" target="_blank" rel="noopener noreferrer" aria-label="Monster.bet">
-    <img
-      src="https://www.monster.bet/_next/image?url=%2Fimages%2FcompanyLogos%2Fmonsterbethoriz.avif&w=1920&q=75"
-      alt="Monster.bet logo"
-      height="20"
-      style="vertical-align:text-bottom;margin:0 6px"
-      loading="lazy"
-      decoding="async"
-    />
-    <span style="font-weight:600">Monster.bet</span>
-  </a>
-  <br/>
-  San Diego, CA · Full-stack Web Development · Applied ML
-</p>
-
-<!-- ---------- LANGUAGES & TOOLS ---------- -->
-<h3 align="center">⚙️ Languages &amp; Tools</h3>
 <p align="center">
   <img
-    alt="Core stack icons"
-    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,pytorch,tensorflow,postgres,supabase,docker,linux,vim,git"
-    loading="lazy"
-    decoding="async"
+    src="./me.jpeg"
+    width="112"
+    alt="Aidan Littman"
+  />
+</p>
+
+<h1 align="center">Aidan Littman</h1>
+
+<p align="center">
+  <strong>Software Engineer</strong> based in San Diego, California
+</p>
+
+<p align="center">
+  Full-stack development · Developer tooling · Automation · Applied machine learning
+</p>
+
+<p align="center">
+  Building reliable software, internal tools, data-intensive applications,
+  and practical automation systems.
+</p>
+
+<br/>
+
+<!-- ==================== STACK ==================== -->
+
+<h2 align="center">Languages &amp; Tools</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,pytorch,postgres,supabase,docker,linux,git,vim&perline=7"
+    alt="TypeScript, JavaScript, React, Next.js, Node.js, Python, PyTorch, PostgreSQL, Supabase, Docker, Linux, Git, and Vim"
   />
 </p>
 
 <details>
-  <summary><b>More I’ve used</b></summary>
+  <summary><strong>Additional technologies</strong></summary>
+
+  <br/>
+
   <p align="center">
     <img
-      alt="More tools"
-      src="https://skillicons.dev/icons?i=rust,java,go,php,ruby,vue,svelte,flask,mysql,mongodb,bash,arch,neovim"
-      loading="lazy"
-      decoding="async"
+      src="https://skillicons.dev/icons?i=tensorflow,rust,go,java,php,ruby,vue,svelte,flask,mysql,mongodb,bash,arch,neovim&perline=7"
+      alt="TensorFlow, Rust, Go, Java, PHP, Ruby, Vue, Svelte, Flask, MySQL, MongoDB, Bash, Arch Linux, and Neovim"
     />
   </p>
 </details>
 
-<!-- ---------- METRICS ---------- -->
-<h3 align="center">📈 Metrics</h3>
+<br/>
 
-<!-- Summary card: wide -->
+<!-- ==================== ACTIVITY ==================== -->
+
+<h2 align="center">GitHub Activity</h2>
+
 <p align="center">
   <img
-    alt="Profile details"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spmfte&theme=tokyonight"
-    loading="lazy"
-    decoding="async"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spmfte&theme=transparent"
+    width="100%"
+    alt="GitHub profile activity"
   />
 </p>
 
-<!-- Summary cards grid (2×2) -->
-<div align="center">
-  <table style="border-collapse:collapse;table-layout:fixed;width:100%;max-width:900px;">
-    <tr>
-      <td align="center" style="width:50%;padding:4px;">
-        <img
-          alt="Repos per language"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spmfte&theme=tokyonight"
-          loading="lazy"
-          decoding="async"
-          style="max-width:100%;"
-        />
-      </td>
-      <td align="center" style="width:50%;padding:4px;">
-        <img
-          alt="Most commit language"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spmfte&theme=tokyonight"
-          loading="lazy"
-          decoding="async"
-          style="max-width:100%;"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="width:50%;padding:4px;">
-        <img
-          alt="Productive time"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spmfte&theme=tokyonight&utcOffset=-7"
-          loading="lazy"
-          decoding="async"
-          style="max-width:100%;"
-        />
-      </td>
-      <td align="center" style="width:50%;padding:4px;">
-        <img
-          alt="Summary stats"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spmfte&theme=tokyonight"
-          loading="lazy"
-          decoding="async"
-          style="max-width:100%;"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Activity graph: wide -->
 <p align="center">
   <img
-    alt="Contribution activity graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=spmfte&theme=tokyo-night&hide_border=true&radius=8"
-    loading="lazy"
-    decoding="async"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spmfte&theme=transparent"
+    width="49%"
+    alt="Repositories by language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spmfte&theme=transparent"
+    width="49%"
+    alt="Most-used commit languages"
   />
 </p>
 
-<!-- ---------- CONTACT ---------- -->
-<h3 align="center">🤝 Let’s connect</h3>
 <p align="center">
-  <a href="mailto:aidanlittman@gmail.com" aria-label="Email"><img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aidanlittman/" aria-label="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/></a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spmfte&theme=transparent&utcOffset=-7"
+    width="49%"
+    alt="Most productive development hours"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spmfte&theme=transparent"
+    width="49%"
+    alt="GitHub contribution statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=spmfte&theme=github-compact&hide_border=true&radius=6"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+</p>
+
+<br/>
+
+<!-- ==================== CONTACT ==================== -->
+
+<h2 align="center">Contact</h2>
+
+<p align="center">
+  <a href="mailto:aidanlittman@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/aidanlittman/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 </p>
